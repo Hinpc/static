@@ -1,7 +1,8 @@
 # static
 
 Open source static files manage.
-Deploy with [Cloudflare Pages](https://pages.cloudflare.com/) and CDN service.
+
+通过 [Cloudflare Pages](https://pages.cloudflare.com/) 做自动发布，通过服务器反代 CF Page 来加速访问。
 
 git 单文件最大 `50MB`, 单仓库容量上限为 `500MB`
 
