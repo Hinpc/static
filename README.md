@@ -12,4 +12,7 @@ git 单文件最大 `50MB`, 单仓库容量上限为 `500MB`
 
 `https://static.hinpc.com/images/wallpagers/snow_grass_w1440.jpg`
 
+https://github.com/Hinpc/static/raw/master/`images/wallpagers/snow_grass_w1440.jpg`
+
+
 [Source](https://github.com/GallenHu/static)
